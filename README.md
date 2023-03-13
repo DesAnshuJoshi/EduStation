@@ -8,6 +8,7 @@
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Installation](#installation)
+- [Deployment](#deployment)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
 ## Introduction
