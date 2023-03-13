@@ -8,10 +8,8 @@
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 ## Introduction
 
 EduStation is a web-based school/college management system developed using SQLite, Django, and Python as backend and HTML, CSS, and JS as front end. The project uses Bootstrap and Chart.JS library for the user interface. The project is in its early stages and provides basic features of accessing the system. Deployment of the project will be done soon.
